@@ -1,0 +1,12 @@
+{
+  "name": "bomba.com",
+  "version": "1.0.0",
+  "description": "Projet nettoyé pour déploiement Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "author": "Sugmad4life",
+  "license": "MIT"
+}

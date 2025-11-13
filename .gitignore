@@ -1,0 +1,44 @@
+# Node
+node_modules/
+.env*
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Build
+/dist/
+/build/
+
+# Temp
+/tmp/
+/temp/
+*.tmp
+
+# Sensitive and large files
+captures decran/*.mp4
+Pixel tiktok pour campagne pub.txt
+variables railway mysql.txt
+config/init_database.sql
+reports/*.csv
+reports/*.json
+out.json
+run-server-prod.ps1
+run-test-db.ps1
+scripts/*.ps1

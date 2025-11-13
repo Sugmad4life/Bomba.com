@@ -1,0 +1,4 @@
+{
+  "deploy": true,
+  "notes": "Projet nettoyé pour Railway. Configurez les variables d'environnement dans Railway."
+}
